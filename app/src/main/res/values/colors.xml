@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#EA5515</color> //Color de lo de debajo del titulo
+    <color name="colorPrimaryDark">#45423D</color> //band Color Top Screen
+    <color name="colorAccent">#EA5515</color>
 </resources>
