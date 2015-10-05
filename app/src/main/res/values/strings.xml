@@ -75,5 +75,4 @@
     <string name="pref_title_vibrate">Vibrate</string>
     <string name="title_activity_chat">Chat</string>
     <string name="title_activity_profile">Profile</string>
-    <string name="title_activity_routes">Routes</string>
 </resources>
